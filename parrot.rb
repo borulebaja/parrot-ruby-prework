@@ -7,3 +7,7 @@ end
 def parrot(phrase = "Squawk!")
   return phrase
 end
+
+def parrot("Pretty bird!")
+  puts 
+end
